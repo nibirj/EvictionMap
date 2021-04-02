@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EvictionMapTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-04-02T16:19:46" hostname="DESKTOP-A539DOP" time="27.993">
+  <properties/>
+  <testcase name="get()" classname="EvictionMapTest" time="0.011"/>
+  <testcase name="put()" classname="EvictionMapTest" time="16.007"/>
+  <testcase name="exceptionTest()" classname="EvictionMapTest" time="0.001"/>
+  <testcase name="manyPutAndGet()" classname="EvictionMapTest" time="0.448"/>
+  <testcase name="testingWithUpdatedValue()" classname="EvictionMapTest" time="11.523"/>
+  <testcase name="testingConstructorWithoutMaxTime()" classname="EvictionMapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
