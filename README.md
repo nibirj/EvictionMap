@@ -1,4 +1,4 @@
-##My solution
+## My solution
 
 I have maid two classes that work together. First class *EvictionMap* contains 2 methods put and get.  
 When initializing *EvictionMap* it is possible to give *"long"* value in seconds,   
